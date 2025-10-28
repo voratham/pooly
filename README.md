@@ -1,6 +1,7 @@
 # Pooly
 
-**TODO: Add description**
+- Supervisor + GenServer + Supervisor Tree
+- ETS storage
 
 ## Step Learning
 
