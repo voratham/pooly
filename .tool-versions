@@ -1,0 +1,3 @@
+elixir 1.18.4-otp-27 --home
+erlang 27.3.4.2 --parent
+1.18.4-otp-27 --home
